@@ -1,0 +1,23 @@
+business_id, restaurant_name,dish_id,dish_name,dish_price,price_range,review_count
+DTuAFwqf2lknagHDT4pUMA,Romano's Pizza,80,Chicken Parmigiana Sub,8.75,1,1
+DTuAFwqf2lknagHDT4pUMA,Romano's Pizza,81,Grilled Chicken Caesar Wrap,7.99,1,1
+DTuAFwqf2lknagHDT4pUMA,Romano's Pizza,82,Chicken Parmigiana ,12.99,1,2
+DTuAFwqf2lknagHDT4pUMA,Romano's Pizza,83,Eggplant Parmigiana,11.99,1,1
+DTuAFwqf2lknagHDT4pUMA,Romano's Pizza,84,Pizza Burger,9.99,1,0
+pe01uqQsa6raj-4HWRjgGg,Independence Brew Pub,85,Not Available ,-1,-1,-1
+VhQg78uOp7voj1wkONDvPg,Ziggy's Bar & Grill,86,Not Available ,-1,-1,-1
+FxmQQutiIzlH40hUQmfEVA,The Angry Chef's Corner Kitchen,87,Not Available ,-1,-1,-1
+ggJXlslLYndvE7n3hgJBCQ,Capital One 360 Café,88,Not Available ,-1,-1,-1
+NJt2qvQ9NvB7uCxYUnW-dQ,McAnderson's House of Brews,89,Not Available ,-1,-1,-1
+g18Wy2StxSnriHOoauq9Xw,The Pizza Pasta House,90, Large Plain Pizza with Twelve Wings,29.95,1,0
+g18Wy2StxSnriHOoauq9Xw,The Pizza Pasta House,100,Garlic Knots,1.5,1,3
+g18Wy2StxSnriHOoauq9Xw,The Pizza Pasta House,101,Zuppa di Mare,15.99,1,1
+g18Wy2StxSnriHOoauq9Xw,The Pizza Pasta House,102,Caesar Salad,8.95,1,1
+g18Wy2StxSnriHOoauq9Xw,The Pizza Pasta House,103,Chicken Parmigiana,16.75,1,1
+Ma1-ObBgnDiC1IHS3xZ-hw,Dairy Queen,104,Not Available ,-1,-1,-1
+fXsdsGnTntaRWbfUxP3wXw,Taco Bell,105,Not Available ,-1,-1,-1
+dv4tx5H0-aPiIXSM2hJNhA,Hooters,106,Daytona Wings,11.99,2,4
+dv4tx5H0-aPiIXSM2hJNhA,Hooters,107,Boneless Wings,13.99,2,5
+dv4tx5H0-aPiIXSM2hJNhA,Hooters,108,Original Buffalo Wings,Not Available,2,2
+dv4tx5H0-aPiIXSM2hJNhA,Hooters,109,Snow Crab Legs,31.99,2,0
+dv4tx5H0-aPiIXSM2hJNhA,Hooters,110,Grilled Chicken Sandwich,13.99,2,0

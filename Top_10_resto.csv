@@ -1,0 +1,80 @@
+business_id, restaurant_name,dish_id,dish_name,dish_price,price_range,review_count
+GBTPC53ZrG1ZBY3DT8Mbcw,Luke,1,Jumbo Louisiana Shrimp ,15.0,3,128
+GBTPC53ZrG1ZBY3DT8Mbcw,Luke,2,Seafood Gumbo,16.0,3,118
+GBTPC53ZrG1ZBY3DT8Mbcw,Luke,3,Blue Crab Omelette,27.0,3,91
+GBTPC53ZrG1ZBY3DT8Mbcw,Luke,4,LA Gulf Oyster,2.75,3,65
+GBTPC53ZrG1ZBY3DT8Mbcw,Luke,5,Herb Roasted Chicken,31.0,3,71
+GBTPC53ZrG1ZBY3DT8Mbcw,Luke,6,Southern Breakfast,23.0,3,53
+SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,7,Clam chowder,15.0,2,798
+SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,8,Rock Crab,18.0,2,336
+SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,9,Lobster Roll,15.0,2,339
+SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,10,Bread Bowl,10.0,2,227
+SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,11,Box Crab ,19.0,2,120
+SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,12,Lobster Bisque,16.0,2,163
+SZU9c8V2GuREDN5KgyHFJw,Santa Barbara Shellfish Company,13,Lobster Tacos,18.0,2,152
+UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,14,Cast Iron Duck confit,20.4,2,169
+UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,15,Monte,18.6,2,118
+UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,16,Steak & Egg Sandwich,19.8,2,51
+UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,17,Dossant,6.6,2,43
+UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,18,Fried Chicken Sandwich,10.2,2,57
+UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,19,Simple Breakfast,12.0,2,45
+UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,20,Classic French Toast,14.4,2,34
+UCMSWPqzXjd7QHq7v8PJjQ,Prep & Pastry,21,Tomato Bisque,6.0,2,30
+vN6v8m4DO45Z4pp8yxxF_w,Surrey's Café & Juice Bar,22,Bananas Foster,17.0,2,564
+vN6v8m4DO45Z4pp8yxxF_w,Surrey's Café & Juice Bar,23,Crab Meat Omelette,15.0,2,82
+vN6v8m4DO45Z4pp8yxxF_w,Surrey's Café & Juice Bar,24,Costa Rican Breakfast,18.0,2,58
+vN6v8m4DO45Z4pp8yxxF_w,Surrey's Café & Juice Bar,25,Avocado Brie,16.0,2,49
+vN6v8m4DO45Z4pp8yxxF_w,Surrey's Café & Juice Bar,26,Smoked Salamon Scrambled Eggs,19.0,2,18
+W4ZEKkva9HpAdZG88juwyQ	,Mr. B's Bistro,27,Hot Buttered Pecan Pie,9.0,3,187
+W4ZEKkva9HpAdZG88juwyQ,Mr. B's Bistro,28,Mr. B's Barbequed Shrimp,31.0,3,166
+W4ZEKkva9HpAdZG88juwyQ	,Mr. B's Bistro,29,Crispy Fried Oysters,14.0,3,158
+W4ZEKkva9HpAdZG88juwyQ,Mr. B's Bistro,30,Gumbo Ya Ya,9.5,3,121
+W4ZEKkva9HpAdZG88juwyQ,Mr. B's Bistro,31,Honey Ginger Glazed,29.0,3,118
+W4ZEKkva9HpAdZG88juwyQ,Mr. B's Bistro,32,Filet Mignon,44.0,3,73
+W4ZEKkva9HpAdZG88juwyQ,Mr. B's Bistro,33,Wood Grilled Fish,40.0,3,32
+pSmOH4a3HNNpYM82J5ycLA,The Pancake Pantry,34,French Toast ,11.0,2,186
+pSmOH4a3HNNpYM82J5ycLA,The Pancake Pantry,35,Choclate Sin Crepes,10.5,2,44
+pSmOH4a3HNNpYM82J5ycLA,The Pancake Pantry,36,Grill Cook's Medley,15.0,2,47
+pSmOH4a3HNNpYM82J5ycLA,The Pancake Pantry,37,Georgia Peach,10.0,2,39
+pSmOH4a3HNNpYM82J5ycLA,The Pancake Pantry,38,Pigs in a Blanket,11.0,2,30
+pSmOH4a3HNNpYM82J5ycLA,The Pancake Pantry,39,Scrambled Eggs,12.0,2,43
+pSmOH4a3HNNpYM82J5ycLA,The Pancake Pantry,40,Silver Dollar,15.0,2,31
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,41,Classic,10.0,2,40
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,42,Spicy Chicken Slider,7.5,2,164
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,43,Fried Chicken Slider,7.5,2,96
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,44,Vietnamese Iced Matcha,4.6,2,112
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,45,Miso Bacon Chicken,7.5,2,73
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,46,Pork Belly Slider,7.5,2,82
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,47,Cheese Burger Sliders,7.5,2,79
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,48,Hot Chicken,7.95,2,42
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,49,Croque Madame,8.0,2,34
+8uF-bhJFgT4Tn6DTb27viA,District Donuts Sliders Brew,50,French Toast ,8.0,2,40
+Zi-F-YvyVOK0k5QD7lrLOg	,Muriel's Jackson Square,51,Prok chop,14.0,3,315
+Zi-F-YvyVOK0k5QD7lrLOg	,Muriel's Jackson Square,52,Goat cheese Crepes,20.0,3,111
+Zi-F-YvyVOK0k5QD7lrLOg	,Muriel's Jackson Square,53,Turtle Soup,11.95,3,197
+Zi-F-YvyVOK0k5QD7lrLOg	,Muriel's Jackson Square,54,Seafood Gumbo,25.0,3,76
+Zi-F-YvyVOK0k5QD7lrLOg	,Muriel's Jackson Square,55,Pain Perdu,13.0,3,36
+Zi-F-YvyVOK0k5QD7lrLOg	,Muriel's Jackson Square,56,Crawfish Crepes,15.0,3,33
+Zi-F-YvyVOK0k5QD7lrLOg	,Muriel's Jackson Square,57,Prix Fixe,10.0,3,69
+Zi-F-YvyVOK0k5QD7lrLOg	,Muriel's Jackson Square,58,Baby Drum,20.0,3,35
+Zi-F-YvyVOK0k5QD7lrLOg	,Muriel's Jackson Square,59,Crab Cake,15.0,3,37
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,60,Seafood Benedict,12.95,2,206
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,61,Eggs Benedict,10.95,2,213
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,62,Big Easy Breakfast,11.95,2,120
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,63,Oyster Benedict,14.95,2,89
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,64,French Toast ,7.95,2,123
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,65,The Bourbon Street,14.95,2,61
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,66,Breakfast Sandwich,8.95,2,49
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,67,Spicy Boudin Omelet,10.95,2,25
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,68,Eggs Floretine,11.95,2,38
+g04aAvgol7IW8buqSbT4xA,Cafe Fleur De Lis,69,Fleur de lis Omlet,11.95,2,26
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,70,Hot Mess,13.0,2,132
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,71,Avocado Toast,15.0,2,140
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,72,Fried Chicken,16.0,2,112
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,73,Hot Chicken,15.0,2,77
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,74,Big Kid Breakfast,14.0,2,47
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,75,Big Kids Meal,12.0,2,47
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,76,Short Rib,10.0,2,50
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,77,Rubi chicken salad,9.0,2,48
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,78,Kale Salad,8.0,2,31
+Zx7n8mdt8OzLRXVzolXNhQ,Milk and Honey Nashville,79,Breakfast Sandwich,12.0,2,41
